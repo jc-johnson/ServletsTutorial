@@ -1,0 +1,21 @@
+[2016-01-29 10:16:17] [info]  [ 8956] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-01-29 10:16:17] [info]  [ 8956] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2016-01-29 10:16:17] [error] [ 8956] The specified service already exists.
+[2016-01-29 10:16:17] [error] [ 8956] Failed installing 'Tomcat8' service
+[2016-01-29 10:16:17] [error] [ 8956] The specified service already exists.
+[2016-01-29 10:16:17] [error] [ 8956] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-01-29 10:16:17] [error] [ 8956] The specified service already exists.
+[2016-01-29 10:16:22] [info]  [ 8660] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-01-29 10:16:22] [info]  [ 8660] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2016-01-29 10:16:22] [error] [ 8660] The specified service already exists.
+[2016-01-29 10:16:22] [error] [ 8660] Failed installing 'Tomcat8' service
+[2016-01-29 10:16:22] [error] [ 8660] The specified service already exists.
+[2016-01-29 10:16:22] [error] [ 8660] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-01-29 10:16:22] [error] [ 8660] The specified service already exists.
+[2016-01-29 10:16:23] [info]  [ 3764] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-01-29 10:16:23] [info]  [ 3764] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2016-01-29 10:16:23] [error] [ 3764] The specified service already exists.
+[2016-01-29 10:16:23] [error] [ 3764] Failed installing 'Tomcat8' service
+[2016-01-29 10:16:23] [error] [ 3764] The specified service already exists.
+[2016-01-29 10:16:23] [error] [ 3764] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-01-29 10:16:23] [error] [ 3764] The specified service already exists.

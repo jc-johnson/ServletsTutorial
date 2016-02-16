@@ -1,0 +1,34 @@
+// Servlet is only initialized once
+public void init() throws ServletException {
+	// Initialization code
+}
+
+
+// Main method to perform the actual task
+// handles requests coming in from client
+public void service(ServletRequest request, 
+							ServletResponse response)
+				throws ServletException, IOException {
+				
+}
+
+// doGet() and doPost() most commonly used methods within
+// service() method
+
+public void doGet(HttpServletRequest request,
+							HttpServletResponse response)
+		throw ServletException, IOException {
+		// Servlet code			
+}
+
+public void doPost(HttpServletRequest request,
+							HttpServletResponse response)
+		throw ServletException, IOException {
+		// Servlet code			
+}
+
+
+// Destory method called once at the end of a servlet's life cycle
+public void destroy() {
+	// Finalization code
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyServlets.iml" filepath="$PROJECT_DIR$/.idea/MyServlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat 8.0/work/Catalina/localhost/localhost.iml" filepath="$PROJECT_DIR$/Tomcat 8.0/work/Catalina/localhost/localhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat 8.0/webapps/docs/appdev/sample/sample.iml" filepath="$PROJECT_DIR$/Tomcat 8.0/webapps/docs/appdev/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

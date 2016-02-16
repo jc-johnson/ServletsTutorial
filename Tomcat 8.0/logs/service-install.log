@@ -1,0 +1,12 @@
+"C:\MyServlets\bin\Tomcat8.exe" //IS//Tomcat8 --DisplayName "Apache Tomcat 8.0 Tomcat8" --Description "Apache Tomcat 8.0.24 Server - http://tomcat.apache.org/" --LogPath "C:\MyServlets\logs" --Install "C:\MyServlets\bin\Tomcat8.exe" --Jvm "C:\Program Files\Java\jre1.8.0_66\bin\server\jvm.dll" --StartPath "C:\MyServlets" --StopPath "C:\MyServlets"
+Install failed: 8 The specified service already exists.
+Failed to install service
+"C:\MyServlets\bin\Tomcat8.exe" //IS//Tomcat8 --DisplayName "Apache Tomcat 8.0 Tomcat8" --Description "Apache Tomcat 8.0.24 Server - http://tomcat.apache.org/" --LogPath "C:\MyServlets\logs" --Install "C:\MyServlets\bin\Tomcat8.exe" --Jvm "C:\Program Files\Java\jre1.8.0_66\bin\server\jvm.dll" --StartPath "C:\MyServlets" --StopPath "C:\MyServlets"
+Install failed: 8 The specified service already exists.
+Failed to install service
+"C:\MyServlets\bin\Tomcat8.exe" //IS//Tomcat8 --DisplayName "Apache Tomcat 8.0 Tomcat8" --Description "Apache Tomcat 8.0.24 Server - http://tomcat.apache.org/" --LogPath "C:\MyServlets\logs" --Install "C:\MyServlets\bin\Tomcat8.exe" --Jvm "C:\Program Files\Java\jre1.8.0_66\bin\server\jvm.dll" --StartPath "C:\MyServlets" --StopPath "C:\MyServlets"
+Install failed: 8 The specified service already exists.
+Failed to install service
+"C:\MyServlets\bin\Tomcat8.exe" //US//Tomcat8 --Classpath "C:\MyServlets\bin\bootstrap.jar;C:\MyServlets\bin\tomcat-juli.jar" --StartClass org.apache.catalina.startup.Bootstrap --StopClass org.apache.catalina.startup.Bootstrap --StartParams start --StopParams stop  --StartMode jvm --StopMode jvm
+"C:\MyServlets\bin\Tomcat8.exe" //US//Tomcat8 --JvmOptions "-Dcatalina.home=C:\MyServlets#-Dcatalina.base=C:\MyServlets#-Djava.endorsed.dirs=C:\MyServlets\endorsed#-Djava.io.tmpdir=C:\MyServlets\temp#-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager#-Djava.util.logging.config.file=C:\MyServlets\conf\logging.properties"
+"C:\MyServlets\bin\Tomcat8.exe" //US//Tomcat8 --StdOutput auto --StdError auto --JvmMs 128 --JvmMx 256
